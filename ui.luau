@@ -284,15 +284,14 @@ local Library do
 
 local Themes = {
     ["Preset"] = {
-        ["Background"] = Color3.fromRGB(20, 20, 25),      -- Dark background (keeps it clean)
+        ["Background"] = Color3.fromRGB(20, 20, 25),
         ["Inline"] = Color3.fromRGB(35, 35, 40),
         ["Outline"] = Color3.fromRGB(45, 45, 50),
         ["Page Background"] = Color3.fromRGB(25, 25, 30),
         ["Border"] = Color3.fromRGB(10, 10, 15),
         
-        -- THE MAIN STAR — TRAFFIC CONE ORANGE
-        ["Accent"] = Color3.fromRGB(255, 85, 0),          -- Classic traffic cone orange
-        ["Light Accent"] = Color3.fromRGB(255, 85, 0),  -- Brighter highlight version
+        ["Accent"] = Color3.fromRGB(255, 85, 0),
+        ["Light Accent"] = Color3.fromRGB(255, 85, 0),
         ["Outer"] = Color3.fromRGB(65, 65, 70),
         
         ["Element"] = Color3.fromRGB(30, 30, 35),
